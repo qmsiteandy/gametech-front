@@ -1,0 +1,42 @@
+[
+   {
+      "courseID": "1",
+      "name": "基礎C/C++程式設計",
+      "teacher": "XXX",
+      "teacherImage": "../image/hotTeacher_img.jpg",
+      "period": "109/11/01 ~ 109/11/30",
+      "time": "17:30 - 20:30",
+      "bookednum": 15,
+      "Upnum": 100
+   },
+   {
+      "courseID": "2",
+      "name": "隨便開的課程A",
+      "teacher": "OOO",
+      "teacherImage": "../image/hotTeacher_img.jpg",
+      "period": "109/12/01 ~ 109/12/31",
+      "time": "13:30 - 16:30",
+      "bookednum": 15,
+      "Upnum": 100
+   },
+   {
+      "courseID": "3",
+      "name": "隨便開的課程B",
+      "teacher": "ABC",
+      "teacherImage": "../image/hotTeacher_img.jpg",
+      "period": "110/01/01 ~ 110/01/31",
+      "time": "17:30 - 20:30",
+      "bookednum": 15,
+      "Upnum": 100
+   },
+   {
+      "courseID": "4",
+      "name": "隨便開的課程C",
+      "teacher": "YYY",
+      "teacherImage": "../image/hotTeacher_img.jpg",
+      "period": "110/02/01 ~ 110/02/28",
+      "time": "09:30 - 12:30",
+      "bookednum": 15,
+      "Upnum": 100
+   }
+]
